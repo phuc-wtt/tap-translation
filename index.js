@@ -1,11 +1,11 @@
 const fs = require('fs'); 
-const parse = require('./parser.js');
+const parse = require('./parser.js').parse;
 
 const csvData=[]
 const trimSpaces = string => string.replace(/(^\s+)|(\s+$)/g, '')
 
-fs.createReadStream('./test.csv')
-  .pipe(parse.parse({delimiter: ','}))
+fs.createReadStream('./input.csv')
+  .pipe(parse({delimiter: ','}))
   .on('data', function(csvrow) { 
     if (!checkIsEmptyRow(csvrow, 0)) {
       csvData.push(csvrow)
