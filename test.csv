@@ -1,0 +1,29 @@
+,,,en,id,ms,th,ph,vn
+Address,Shipping Address,,Shipping Address,Alamat pengiriman,Alamat Penghantaran,ที่อยู่จัดส่ง,Shipping Address,Địa chỉ giao hàng
+Address,Contact Details,,Contact Details,Detail kontak,Maklumat Kontak,รายละเอียดติดต่อ,Contact Details,Chi tiết liên hệ
+Address,Fullname,,Full Name,Nama lengkap,Nama Penuh,ชื่อ-นามสกุล,Full Name,Họ và tên
+Address,Fullname,placeholder,Enter First & Last Name,Masukkan nama depan & belakang,Masukan Nama Pertama & Terakhir,กรอกชื่อและนามสกุล,Enter First & Last Name,Nhập Họ và Tên
+Address,Verified,,Verified,Diverifikasi,Disahkan,ตรวจสอบแล้ว,Verified,Đã xác minh
+Address,Email,,Email Address,Alamat email,Alamat Emel,ที่อยู่อีเมล,Email Address,Địa chỉ email
+Address,phone,,Mobile Number,Nomor handphone,No.Telefon,เบอร์โทรศัพท์,Mobile Number,Số điện thoại
+Address,email,placeholder,Enter Email Address,Masukkan alamat email,Masukan Alamat Emel,กรอกที่อยู่อีเมล,Enter Email Address,Nhập địa chỉ email
+Address,phone,placeholder,Enter Mobile Number,Masukkan nomor ponsel,Masukan No.Telefon,กรอกเบอร์โทรศัพท์,Enter Mobile Number,Nhập số điện thoại di động
+,,,,,,,,
+Address,pincode,,Pin Code / Postal Code / Zip Code,Kode pin / kode pos / kode pos,Poskod,รหัสไปรษณีย์,Pin Code / Postal Code / Zip Code,Mã Pin/Mã Bưu Chính/Mã Zip
+Address,sub district,,Sub District / Area / Ward,Sub distrik / area / bangsal,Daerah / Kawasan,ตำบล/แขวง,Sub District / Area / Ward,Khu phố/Khu vực/Phường
+Address,pincod,placeholder,Select Postal Code,Pilih Kode Pos,Pilih Poskod,เลือกรหัสไปษณีย์,Select Postal Code,Chọn Mã Bưu Chính
+Address,sub district,,Select Sub District,Pilih Sub Distrik,Pilih Daerah,เลือกตำบล/แขวง,Select Sub District,Chọn khu phố
+Address,district,,City/District,Distrik kota,Bandar,อำเภอ/เขต,City/District,Huyện/Thành phố
+Address,city,,Select City,Pilih Kota,Pilih Bandar,เลือกอำเภอ/เขต,Select City,Lựa chọn thành phố
+Address,province,,State / Province,Negara / provinsi,Negeri,จังหวัด,State / Province,Bang/Tỉnh
+Address,province,placeholder,Select State,Pilih negara bagian,Pilih Negeri,เลือกจังหวัด,Select State,Chọn tiểu bang
+Address,Country,,Country,Negara,Negara,ประเทศ,Country,Quốc gia
+Address,country,placeholder,Select Country,Pilih negara,Pilih Negara,เลือกประเทศ,Select Country,Chọn quốc gia
+Address,default,,Make this my default address,Jadikan ini alamat default saya,Jadikan ini alamat default,ตั้งเป็นที่อยู่เริ่มต้น,Make this my default address,Đặt đây làm địa chỉ mặc định của tôi
+Address,type,,Please select an address type,Pilih jenis alamat,Pilih jenis alamat,โปรดเลือกประเภทที่อยู่,Please select an address type,Vui lòng chọn loại địa chỉ
+Address,Home,,Home,Rumah,Rumah,บ้าน,Home,Trang chủ
+Address,Office,,Office,Kantor,Pejabat,ที่ทำงาน,Office,Văn phòng
+Address,save,,Save Address,Simpan alamat,Simpan Alamat,บันทึกที่อยู่,Save Address,Lưu địa chỉ
+Address,err,missing data,Please provide missing data,Harap berikan data yang hilang,Sila berikan data yang hilang,กรุณาระบุข้อมูลให้ครบถ้วน,Please provide missing data,Vui lòng cung cấp dữ liệu còn thiếu
+Address,list,title,Select Delivery Address ,Pilih alamat pengiriman,Pilih Alamat Penghantaran,เลือกที่อยู่จัดส่ง,Select Delivery Address ,Chọn địa chỉ giao hàng
+Address,Default,,Default,Bawaan,Default,ค่าเริ่มต้น,Default,Mặc định
