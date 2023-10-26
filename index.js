@@ -4,7 +4,7 @@ const parser = require('./parser.js').parse;
 const csvData=[]
 const trimSpaces = string => string.replace(/(^\s+)|(\s+$)/g, '')
 
-fs.createReadStream('./input.csv')
+fs.createReadStream('./translation-input.csv')
   .pipe(parser({delimiter: ','}))
   .on('data', function(csvrow) { 
     if (!checkIsEmptyRow(csvrow, 0)) {
